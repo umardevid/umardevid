@@ -1,8 +1,9 @@
-### Hi there 👋
-### Hello my name is Umar
+### Hi, I'm Umar 👋 👨‍💻
 # Fulstack Developer
 
 ### Tech
+- HTML
+- CSS
 - Javascript
 - React
 - NodeJs
