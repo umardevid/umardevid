@@ -12,4 +12,3 @@ freelancer developer.
 - PHP
 - Go
 - MySQL
-- Flutter
